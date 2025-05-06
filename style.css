@@ -162,3 +162,19 @@ hr {
   border-radius: 18px;
   color: white;
 }
+
+.icons{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: #142850;
+}
+.icons i {
+    padding: 10px;
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    cursor: pointer;
+}
