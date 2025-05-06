@@ -116,3 +116,49 @@ li:hover {
   flex-direction: row;
   margin: 40px;
 }
+.feature-work {
+  background-color: white;
+  padding: 40px 180px;
+}
+.title-h {
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: 30px;
+}
+hr {
+  margin: 18px 0;
+}
+.img-div {
+  display: flex;
+  width: 300px;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  padding: 0 40px;
+}
+.text h1 {
+  margin-bottom: 10px;
+  font-size: 40px;
+}
+.h-4 {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.h-4 h4 {
+  padding: 8px 10px;
+}
+.d-h {
+  color: gray;
+}
+.date {
+  background-color: #142850;
+  border-radius: 18px;
+  color: white;
+}
